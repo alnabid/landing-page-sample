@@ -268,4 +268,7 @@ input {
     .popup .content {
         overflow-y: scroll;
     }
+    #signIn input {
+        width: 100%;
+    }
 }
